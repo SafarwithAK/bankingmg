@@ -1,0 +1,54 @@
+/* GLOBAL THEME */
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 480px;
+    margin: 40px auto;
+    padding: 25px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ddd;
+}
+
+/* HEADER */
+.navbar {
+    background: #003366;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+/* FORM */
+input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+button {
+    background: #003366;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #002244;
+}
+
+.error {
+    color: red;
+    margin-bottom: 10px;
+}

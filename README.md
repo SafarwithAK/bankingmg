@@ -31,9 +31,16 @@ It allows users to manage accounts, transfer money, and perform banking operatio
 5. Open browser: http://localhost/bankingmg
 
 ---
-
 ## 📸 Screenshots
-(Add screenshots here)
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 💳 Payment Page
+![Payment](screenshots/payment.png)
 
 ---
 
